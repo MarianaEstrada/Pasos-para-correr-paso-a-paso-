@@ -15,7 +15,7 @@ Primero se debe hacer el debug del main, los pasos para realizarlo están [Aquí
 
 3. Además se puede poner un Breakpoint en cualquier línea del código, haciendo doble clic en el número donde se indica en la línea que se está. Para mirar el valor de una variable se puede ir a la parte derecha de la pantalla, crear la variable y mirar su comportamiento.
 
-![Paso3](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso3.png
+![Paso3](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso3.png)
 
 4. Suponiendo que se tenga una variable y se desee mirar su comportamiento, como en el punto 3 con la variable cuenta. Existen dos formas de hacerlo: 
 * 
