@@ -9,6 +9,7 @@ Primero se debe hacer el debug del main, los pasos para realizarlo están [Aquí
 2. Aquí aparecen varias opciones, entre ellas:
 
 **Step Into:** Corre paso a paso el programa, se ejecuta con F5
+
 **Step Over:** Si hay una función, ejecuta la función sin mostrar que se hizo; se ejecuta con F6.
 
 ![Paso2](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso2.PNG)
