@@ -8,7 +8,7 @@ Primero se debe hacer el debug del main, los pasos para realizarlo están [Aquí
 
 2. Aquí aparecen varias opciones, entre ellas:
 
-**Step Into:** Corre paso a paso el promagra, se ejecula con F5
+**Step Into:** Corre paso a paso el programa, se ejecuta con F5
 **Step Over:** Si hay una función, ejecuta la función sin mostrar que se hizo; se ejecuta con F6.
 
 ![Paso2](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso2.PNG)
@@ -17,5 +17,11 @@ Primero se debe hacer el debug del main, los pasos para realizarlo están [Aquí
 
 ![Paso3](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso3.PNG)
 
-4. Suponiendo que se tenga una variable y se desee mirar su comportamiento, como en el punto 3 con la variable cuenta. Existen dos formas de hacerlo: 
-* 
+4. Otra forma de mirar el comportamiento de una variable es con un Dynamic prinft, este se saca dando clic derecho al breakpoint, tipos de break point, C/C++ Dynamic prinft.
+
+![Paso4](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso4.PNG)
+
+Después se da nuevamente  clic derecho, propiedades del Breakpoint y en la ventana que aparece se pone la variable que se desea configurar.
+
+![Paso5](https://github.com/MarianaEstrada/Pasos-para-correr-paso-a-paso-/blob/master/imagenes/Paso5.PNG)
+
